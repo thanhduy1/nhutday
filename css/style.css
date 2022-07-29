@@ -1,0 +1,158 @@
+
+    .navbar {
+        margin-bottom: 0;
+        border-radius: 0;
+      }
+      
+
+      footer {
+        background-color: #f2f2f2;
+        padding: 25px;
+      }
+      
+    .carousel-inner img {
+        width: 100%; 
+        margin: auto;
+        min-height:200px;
+    }
+  
+    @media (max-width: 100%) {
+      .carousel-caption {
+        display: none; 
+      }
+    }
+
+.container{
+   
+    width: auto;
+
+}
+ul.productlist {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        width: 100%;
+    }
+ul.productlist li {
+        width: 20%;
+        float: left;
+    }
+ul.productlist li img {
+        width: 70%;
+    }
+.clear{
+  clear: both;
+}
+p.titleproduct {
+  font: unset;
+  color: #000;
+}
+p.priceproduct {
+  font: caption;
+  color: #000;
+  font-weight: bold;
+}
+.hinhanh_sanpham
+{
+  float: left;
+  width: 50%;
+}
+.hinhanh_sanpham img{
+  width: 100%;
+}
+.chitiet_sanpham
+{
+  float: left;
+  width: 40%;
+  margin-left: 10px;
+}
+input.themgiohang {
+  background: red;
+  padding: 12px;
+  color: white;
+  font-weight: bold;
+  font-size: medium;
+  cursor: pointer;
+  border-radius: 20px;
+  
+}
+.spmn{
+  height: 1000px;
+  width: 100%;
+}
+.danhmuc
+{
+  
+  height: 50px;
+  width: 100%;
+  border: 2px solid rgb(205, 198, 198);
+  line-height: 0.5;
+  background-color: #000;
+}
+h3.\33 4 {
+  line-height: 0.1;
+  font-size: xx-large;
+  font-weight: bold;
+  color: #f2f2f2;
+  
+}
+.non34{
+  height: 600px;
+  width: 100%;
+}
+.nonfullface{
+  height: 600px;
+  width: 100%;
+}
+.nonnuadau{
+  height: 600px;
+  width: 100%;
+}
+.phukien{
+  height: 600px;
+  width: 100%;
+}
+.nontreem{
+  height: 600px;
+  width: 100%;
+}
+.muxedap{
+  height: 600px;
+  width: 100%;
+}
+
+.thungo1 img {
+  float: left;
+  width: 500px;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+img.anhtrangchu {
+  width: 100%;
+}
+.spmn1{
+  height: 100px;
+  width: 100%;
+}
+ul.dichvu img {
+  width: 50%;
+}
+ul.dichvu p {
+  font-size: xx-large;
+  font-weight: bold;
+  clear: unset;
+}
+.chitiet_sanpham p {
+  font-size: 17px;
+}
+button.cancelbtn a {
+  font-size: revert;
+  color: black;
+  font-weight: bold;
+}
+ul.dichvu {
+  text-align: center;
+}
+ul.bv li img {
+  width: 25%;
+}
